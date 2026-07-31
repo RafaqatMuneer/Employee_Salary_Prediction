@@ -284,7 +284,7 @@ The architecture can be represented as:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/RafaqatMuneer/Employee_Salary_Prediction
 ```
 
 Navigate to the project directory:
