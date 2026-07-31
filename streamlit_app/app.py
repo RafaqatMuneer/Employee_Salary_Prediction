@@ -190,7 +190,7 @@ if predict:
         "certifications": certifications
     }
 
-    API_URL = "http://127.0.0.1:5000/predict"
+    API_URL = "https://employee-salary-prediction-t342.onrender.com"
 
     max_retries = 3
     result = None
