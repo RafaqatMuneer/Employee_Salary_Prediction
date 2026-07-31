@@ -359,9 +359,9 @@ with st.expander("ℹ About the Model"):
 - Certifications
 
 ### Evaluation Metrics
-- **R² Score:** 0.9602
-- **MAE:** 5,740.69
-- **RMSE:** 7,441.02
+- **R² Score:** 0.9801
+- **MAE:** 4199.52
+- **RMSE:** 5264.03
 
 This application predicts an employee's estimated annual salary based on professional qualifications and job-related attributes.
 """)

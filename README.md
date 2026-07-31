@@ -41,9 +41,9 @@ The model uses the following input features:
 
 | Metric | Value |
 |---------|------:|
-| R² Score | 0.9602 |
-| Mean Absolute Error (MAE) | 5,740.69 |
-| Root Mean Squared Error (RMSE) | 7,441.02 |
+| R² Score | 0.9801 |
+| Mean Absolute Error (MAE) | 4199.52 |
+| Root Mean Squared Error (RMSE) | 5264.03 |
 
 ## Installation
 
