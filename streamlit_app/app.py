@@ -341,7 +341,7 @@ if predict:
 with st.expander("ℹ About the Model"):
 
     st.markdown("""
-**Model:** Random Forest Regressor
+**Model:** HistGradientBoostingRegressor
 
 **Machine Learning Library:** Scikit-learn
 
